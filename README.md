@@ -3,7 +3,7 @@ Code and information regarding Robert, the self-balancing robot.
 
 palle
 
-## Setup coding enviroment
+## Setup coding environment
 Create, in the working directory, this folders:
 ```
 arduino-data
